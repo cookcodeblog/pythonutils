@@ -3,6 +3,8 @@
 ### Project ignore files
 
 *tmp.xls
+*.pdf
+*.rpm
 
 
 ### VirtualEnv template

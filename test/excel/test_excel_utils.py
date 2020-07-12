@@ -5,7 +5,7 @@ import unittest
 from pythonutils import excelutils
 
 
-class TestExcelUtils(unittest.TestCase):
+class ExcelUtilsTest(unittest.TestCase):
 
     def setUp(self):
         self.xls_file = './data/考试成绩.xls'
