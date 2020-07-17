@@ -29,4 +29,5 @@ def exists_file(file_name):
 
 
 def get_file_ext(file_name):
-    return os.path.splitext(file_name)[1]
+    _, ext = os.path.splitext(file_name)
+    return ext
