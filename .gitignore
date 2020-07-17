@@ -5,6 +5,7 @@
 *tmp.xls
 *.pdf
 *.rpm
+*.txt
 
 
 ### VirtualEnv template
